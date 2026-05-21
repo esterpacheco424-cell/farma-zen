@@ -70,4 +70,29 @@ div.content{
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    font-family: Roboto;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    padding-right: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+
 }
+
+/*##### covid-test-content ##### */
+
+div.covid-test-content img{
+    width: 50%;
+}
+
+div.covid-test-content p{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 48px;
+}
+
